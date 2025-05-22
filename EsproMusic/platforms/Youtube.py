@@ -4,7 +4,7 @@ import re
 import json
 from typing import Union
 import requests
-import yt_dlpg
+import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
